@@ -1,0 +1,20 @@
+.example-card {
+    max-width: 400px;
+    background-color: rgba(9, 9, 9, 0.254);
+    
+  }
+  
+  .example-header-image {
+    background-image: url("https://yt3.ggpht.com/ytc/AKedOLR33CaqrxlD2IYeEq9zyXj7BctwVsJsDgSRcocPCg=s900-c-k-c0x00ffffff-no-rj");
+    background-size: cover;
+  }
+
+  .cartas  {
+      display: flex; 
+      justify-content: space-around;
+      margin-top: 60px;
+  }
+
+  p{
+       font-size: 20px;
+   }

@@ -1,0 +1,32 @@
+.mat-toolbar {
+   background-image: url(https://images.pexels.com/photos/2098405/pexels-photo-2098405.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+ height: 50px;
+ 
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.main {
+    color: rgb(147, 142, 142);
+    display: flex;
+    font-size: 20px;
+    padding: 20px;
+}
+
+li {
+   
+    padding: 11px 20px 11px 20px; 
+}
+
+li:hover {
+    color: #eaedf3;
+   background-color: rgba(156, 154, 154, 0.076);
+   border-radius: 20px;
+   font-size: 40px;
+
+}
